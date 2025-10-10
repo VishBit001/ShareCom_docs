@@ -1,6 +1,6 @@
 # 📈 ShareCom — Android App for Long-Term Investors
 
-**ShareCom** is a modern Android application designed to help verified long-term investors share their executed trades with others through curated, subscription-based groups.
+**ShareCom** is a modern Android application designed to help long-term investors share their executed trades with others through curated, subscription-based groups.
 
 ## 🚀 What Does ShareCom Do?
 
