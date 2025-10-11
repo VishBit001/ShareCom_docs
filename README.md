@@ -22,6 +22,7 @@
 - [Privacy Policy](privacy.html)
 - [Refund Policy](refund.html)
 - [Terms and Conditions](terms.html)
+- [Child safety and exploitation Document](CSAE.html)
 
 > These documents are hosted in the repository for transparency and compliance.
 
