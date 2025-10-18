@@ -2,6 +2,8 @@
 
 **ShareCom** is a modern Android application designed to help long-term investors share their executed trades with others through curated, subscription-based groups.
 
+Link to the APK file: [ShareCom](ShareCom.apk)
+
 ## 🚀 What Does ShareCom Do?
 
 - Allows users to **create investment groups** with custom joining fees or free access.
