@@ -26,6 +26,12 @@ Link to the APK file: [ShareCom](ShareCom.apk)
 - [Terms and Conditions](terms.html)
 - [Child safety and exploitation Document](CSAE.html)
 
+## 📄 Document from Razorpay payment gateway
+
+- [Cancellation and Refund Razorpay](CnR.html)
+- [Shipping_razorpay](Ship.html)
+- [TnC_razorpay](TnC.html)
+
 > These documents are hosted in the repository for transparency and compliance.
 
 ## 📬 Contact
