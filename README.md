@@ -28,9 +28,9 @@ Link to the APK file: [ShareCom](ShareCom.apk)
 
 ## 📄 Document from Razorpay payment gateway
 
-- [Cancellation and Refund Razorpay](https://merchant.razorpay.com/policy/RVGYQAs6SQCX4Q/refund)
-- [Shipping_razorpay](https://merchant.razorpay.com/policy/RVGYQAs6SQCX4Q/shipping)
-- [TnC_razorpay](https://merchant.razorpay.com/policy/RVGYQAs6SQCX4Q/terms)
+- [Cancellation and Refund Razorpay](https://merchant.razorpay.com/policy/RaPbjA7BAyyv0u/refund)
+- [Shipping_razorpay](https://merchant.razorpay.com/policy/RaPbjA7BAyyv0u/shipping)
+- [TnC_razorpay](https://merchant.razorpay.com/policy/RaPbjA7BAyyv0u/terms)
 
 > These documents are hosted in the repository for transparency and compliance.
 
